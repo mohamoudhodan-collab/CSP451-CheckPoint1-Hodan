@@ -16,3 +16,11 @@ This repository demonstrates Git and GitHub fundamentals, including:
 
 \- a basic HTML, CSS, and JavaScript project structure
 
+
+
+\## License
+
+This project is licensed under the MIT License.
+
+
+
